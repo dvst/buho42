@@ -1,4 +1,4 @@
-# private-finances-with-insights
+# Buho42
 
 Proyecto para ofrecer una solucion privada y segura para control de finanzas personales, ofreciendo visualizaciones y recomendaciones para alcanzar metas.
 
