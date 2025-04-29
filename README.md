@@ -7,3 +7,8 @@ La premisa principal de este proyecto es:
 - Que sea tan automatico como sea posible.
 - Que sea facil de usar.
 - Que ofrezca visualizaciones y recomendaciones.
+
+## Aplicación escritorio
+
+[Desktop App](https://github.com/dvst/buho42/tree/main/desktop-app)
+Escrita usando [Electron](https://www.electronjs.org/) para homogeneidad entre plataformas y hacer uso de lenguaje comunmente conocido como lo es javascript por medio de Node
